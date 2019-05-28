@@ -1,0 +1,5 @@
+Song.create(title: "Cute Without the 'E'", released: true, release_year: 2002, artist_name: "Taking Back Sunday", genre: "Punk")
+Song.create(title: "Hello", released: true, release_year: 2015, artist_name: "Adele", genre: "Pop")
+Song.create(title: "Bat Country", released: true, release_year: 2005, artist_name: "Avenged Sevenfold", genre: "Rock")
+Song.create(title: "End Game", released: true, release_year: 2017, artist_name: "Taylor Swift", genre: "Pop")
+Song.create(title: "Believe", released: true, release_year: 2015, artist_name: "Mumford & Sons", genre: "Folk")
